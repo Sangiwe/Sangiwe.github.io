@@ -293,6 +293,7 @@ nav ul li a:hover::after {
     padding: 40px;
     border-radius: 8px;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.07);
+    style: "justify-content: center";
 }
 
 .skill-column {
